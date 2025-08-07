@@ -1,2 +1,1 @@
-# My-Resume
-This is my resume on the basis of my linkedin profile
+# My-Resume: https://oyy-krishna.github.io/My-Resume/
